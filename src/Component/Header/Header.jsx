@@ -4,7 +4,7 @@ import './Header.css'
 const Header = () => {
 
     return (
-        <header className="container mx-auto lg:mt-12">
+        <header className="container mx-auto lg:mt-12 p-3">
         {/* navbar part */}
             <nav className="navbar flex justify-between bg-base-100">
                 <div className="">
@@ -43,13 +43,13 @@ const Header = () => {
             </nav>
 
         {/* banner part */}
-            <div className='bg lg:text-white w-full lg:h-[699px] text-center rounded-3xl mt-12 flex justify-center items-center'>
+            <div className='bg text-white w-full lg:h-[699px] text-center rounded-3xl lg:mt-12 mt-6 flex justify-center items-center p-2'>
                     <div>
-                        <h1 className='lg:text-5xl text-3xl font-bold lg:leading-[76px]'>Discover an exceptional cooking <br /> class tailored for you!</h1>
-                        <p className='font-medium lg:text-xl mt-7 lg:leading-8'>
+                        <h1 className='lg:text-5xl text-2xl font-bold lg:leading-[76px]'>Discover an exceptional cooking <br /> class tailored for you!</h1>
+                        <p className='font-medium lg:text-xl text-xs mt-7 lg:leading-8'>
                         Learn and Master Basic Programming, Data Structures, Algorithm, OOP, Database and solve 500+ coding <br /> problems to become an exceptionally well world-class Programmer.
                         </p>
-                        <div className='font-semibold lg:text-xl lg:mt-11 mt-6 space-x-7'>
+                        <div className='font-semibold lg:text-xl lg:mt-11 mt-6 lg:space-x-7 space-x-3'>
                             <button className='btn bg-[#0BE58A] hover:bg-transparent border-2 border-[#0BE58A] hover:text-[#0BE58A] text-black rounded-[50px]'>Explore Now</button>
                             <button className='btn bg-transparent border-2 lg:text-white text-[#0BE58A] lg:border-transparent border-[#0BE58A] hover:bg-transparent rounded-[50px]'>Our Feedback</button>
                         </div>
