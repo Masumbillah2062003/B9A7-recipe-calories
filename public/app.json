@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "recipe_name": "Basil Chicken Stir-Fry",
+        "short_description": "A delicious and easy-to-make chicken stir-fry with fresh basil leaves.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "image": "https://i.ibb.co/0QPvRTM/Rectangle-20170.png"
+    },
+    {
+        "id": 2,
+        "recipe_name": "Vegetable Pasta Primavera",
+        "short_description": "A colorful pasta dish packed with fresh vegetables and herbs.",
+        "ingredients": ["300 g pasta", "2 bell peppers", "1 zucchini", "1 onion", "200 g cherry tomatoes", "100 g spinach"],
+        "preparing_time": "25 min",
+        "calories": "280 calories",
+        "image": "https://i.ibb.co/Zz50pRz/Rectangle-20170-1.png"
+    },
+    {
+        "id": 3,
+        "recipe_name": "Spicy Tofu Tacos",
+        "short_description": "A spicy and flavorful taco recipe with crispy tofu and fresh toppings.",
+        "ingredients": ["300 g firm tofu", "1 avocado", "1 red onion", "1 jalapeno", "200 g lettuce", "6 taco shells"],
+        "preparing_time": "20 min",
+        "calories": "240 calories",
+        "image": "https://i.ibb.co/BTMXMW5/recipe-1.jpg"
+    },
+    {
+        "id": 4,
+        "recipe_name": "Mango Chicken Salad",
+        "short_description": "A refreshing salad with juicy mangoes, grilled chicken, and a tangy dressing.",
+        "ingredients": ["400 g chicken breast", "2 mangoes", "100 g mixed greens", "50 g almonds", "2 tbsp balsamic vinegar"],
+        "preparing_time": "15 min",
+        "calories": "290 calories",
+        "image": "https://i.ibb.co/tPj37Yc/recipe-3.jpg"
+    },
+    {
+        "id": 5,
+        "recipe_name": "Quinoa Stuffed Bell Peppers",
+        "short_description": "Healthy and satisfying stuffed bell peppers filled with quinoa and vegetables.",
+        "ingredients": ["200 g quinoa", "4 bell peppers", "1 onion", "2 carrots", "100 g corn", "100 g black beans"],
+        "preparing_time": "40 min",
+        "calories": "350 calories",
+        "image": "https://i.ibb.co/0C9h8fb/recipe-4.jpg"
+    },
+    {
+        "id": 6,
+        "recipe_name": "Lemon Garlic Shrimp Pasta",
+        "short_description": "A flavorful pasta dish with succulent shrimp, garlic, and fresh lemon.",
+        "ingredients": ["300 g shrimp", "200 g pasta", "3 cloves garlic", "1 lemon", "50 g parmesan cheese"],
+        "preparing_time": "35 min",
+        "calories": "300 calories",
+        "image": "https://i.ibb.co/fv5MH3R/recipe-5.jpg"
+    }
+]
